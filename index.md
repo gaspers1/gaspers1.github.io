@@ -1,6 +1,9 @@
 ## Data exploration examples
 
-You can use the [editor on GitHub](https://github.com/gaspers1/gaspers1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+IT data exploration project [link](https://gaspers1.github.io/projects/IT.html)
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to
 ### Markdown
