@@ -1,6 +1,8 @@
 ## Data exploration examples
 
-IT data exploration project ![Image](https://gaspers1.github.io/projects/pc.png)
+IT data exploration project 
+
+![Image](https://gaspers1.github.io/projects/pc.png)
 
 
 
